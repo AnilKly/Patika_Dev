@@ -1,1 +1,1 @@
-# Patika_Dev
+Hello! I'm Mehmet Anıl Kalay. I'm studying Electrics Electronics Engineering at Konya Technical University. I will publish my homeworks, projects and education that I take from Patika.dev in this repository during my learning time.
